@@ -15,6 +15,15 @@ Description: This Template is created for Youtubers
   padding: 0px;
   list-style: none; }
 
+.trim {
+  width: 23rem;
+  height: 15rem;
+  object-fit: fill;
+}
+
+.space {
+  padding: 80px 50px;
+}
 .nss {
   display: flex;
   flex-direction: row;
